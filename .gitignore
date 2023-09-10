@@ -3,3 +3,7 @@
 glove.6B.50d.txt
 *.zip
 # !doodle-detectives-aiclubiitm/
+sub_?.csv
+SUBMISSION.csv
+*.csv
+# Redundant, but safer
